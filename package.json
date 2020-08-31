@@ -13,6 +13,6 @@
         "node_hash": "*",
         "bcrypt": "*",
         "nodemailer": "*",
-        "validator": "<2.0.0"
+        "validator": "<14.0.0"
     }
 }
